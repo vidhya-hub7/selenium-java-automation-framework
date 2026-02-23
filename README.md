@@ -1,5 +1,7 @@
 # Selenium Java Automation Framework
 
+A beginner-friendly Selenium automation framework built using Java, TestNG, and Maven, covering real-world login and authentication scenarios.
+
 ## Overview
 Automated end-to-end testing of critical user flows including login, forgot password, and logout for a web application using Selenium WebDriver with Java and TestNG.
 
