@@ -18,7 +18,7 @@ Automates login, forgot password, and logout flows for a sample web app using Se
 ## How to Run
 1. Clone the repo
 2. Open in Eclipse/IntelliJ as a Maven project
-3. Run the test class: `LoginAutomationTest`
+3. Run the test class: `LoginLogoutAutomationTest`
 
 ## Notes
 Built as part of hands-on Selenium training and customized with additional assertions and locator strategies.
