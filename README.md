@@ -20,10 +20,11 @@ This project demonstrates hands-on experience in functional UI testing, validati
 - Logout functionality verification  
 
 ## Key Highlights
-- Implemented reusable locator strategies using XPath and CSS selectors  
-- Used TestNG assertions for validation of UI elements and messages  
-- Automated realistic user flows simulating end-user behavior  
-- Structured test cases for better readability and maintainability  
+- Implemented reusable locator strategies using XPath and CSS selectors
+- Applied TestNG assertions for validation of UI elements and error messages
+- Automated end-to-end user flows including login, password reset, and logout scenarios
+- Structured test code for better readability, reusability, and maintainability
+- Built using Maven for dependency management and scalable project structure 
 
 ## How to Run
 1. Clone the repository  
